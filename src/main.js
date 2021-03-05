@@ -3,6 +3,10 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 import vuetify from './plugins/vuetify';
+import lightbox from 'vlightbox';
+
+Vue.use(lightbox);
+
 
 Vue.config.productionTip = false
 
