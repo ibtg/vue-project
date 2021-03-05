@@ -1,19 +1,14 @@
 # project
 
-## Project setup
+## Installation
+
 ```
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Libraris
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [Vuetify](https://vuetifyjs.com/en/)
+- [vlightbox](https://github.com/olitaylor/vlightbox)
